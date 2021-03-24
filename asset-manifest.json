@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/react-tic-tac-toe/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-tic-tac-toe/static/js/main.a09ae78a.chunk.js",
-    "main.js.map": "/react-tic-tac-toe/static/js/main.a09ae78a.chunk.js.map",
-    "runtime-main.js": "/react-tic-tac-toe/static/js/runtime-main.03d31554.js",
-    "runtime-main.js.map": "/react-tic-tac-toe/static/js/runtime-main.03d31554.js.map",
-    "static/js/2.d3edccba.chunk.js": "/react-tic-tac-toe/static/js/2.d3edccba.chunk.js",
-    "static/js/2.d3edccba.chunk.js.map": "/react-tic-tac-toe/static/js/2.d3edccba.chunk.js.map",
-    "static/js/3.7b7f488f.chunk.js": "/react-tic-tac-toe/static/js/3.7b7f488f.chunk.js",
-    "static/js/3.7b7f488f.chunk.js.map": "/react-tic-tac-toe/static/js/3.7b7f488f.chunk.js.map",
+    "main.css": "/react-tic-tac-toe/static/css/main.12746a2a.chunk.css",
+    "main.js": "/react-tic-tac-toe/static/js/main.11aaa426.chunk.js",
+    "main.js.map": "/react-tic-tac-toe/static/js/main.11aaa426.chunk.js.map",
+    "runtime-main.js": "/react-tic-tac-toe/static/js/runtime-main.98d6a0c2.js",
+    "runtime-main.js.map": "/react-tic-tac-toe/static/js/runtime-main.98d6a0c2.js.map",
+    "static/js/2.7e2a51fa.chunk.js": "/react-tic-tac-toe/static/js/2.7e2a51fa.chunk.js",
+    "static/js/2.7e2a51fa.chunk.js.map": "/react-tic-tac-toe/static/js/2.7e2a51fa.chunk.js.map",
+    "static/js/3.3fff01d1.chunk.js": "/react-tic-tac-toe/static/js/3.3fff01d1.chunk.js",
+    "static/js/3.3fff01d1.chunk.js.map": "/react-tic-tac-toe/static/js/3.3fff01d1.chunk.js.map",
     "index.html": "/react-tic-tac-toe/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-tic-tac-toe/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d3edccba.chunk.js.LICENSE.txt": "/react-tic-tac-toe/static/js/2.d3edccba.chunk.js.LICENSE.txt"
+    "static/css/main.12746a2a.chunk.css.map": "/react-tic-tac-toe/static/css/main.12746a2a.chunk.css.map",
+    "static/js/2.7e2a51fa.chunk.js.LICENSE.txt": "/react-tic-tac-toe/static/js/2.7e2a51fa.chunk.js.LICENSE.txt",
+    "static/media/circle.bd3ce232.svg": "/react-tic-tac-toe/static/media/circle.bd3ce232.svg",
+    "static/media/cross.b7a9c534.svg": "/react-tic-tac-toe/static/media/cross.b7a9c534.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03d31554.js",
-    "static/js/2.d3edccba.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.a09ae78a.chunk.js"
+    "static/js/runtime-main.98d6a0c2.js",
+    "static/js/2.7e2a51fa.chunk.js",
+    "static/css/main.12746a2a.chunk.css",
+    "static/js/main.11aaa426.chunk.js"
   ]
 }
